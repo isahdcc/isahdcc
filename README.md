@@ -9,6 +9,8 @@
 Olá! Meu nome é Isabelli e estou iniciando minha jornada no mundo da tecnologia.  
 Atualmente curso o 1º período de Análise e Desenvolvimento de Sistemas e estou me dedicando a aprender as bases da programação, lógica computacional e desenvolvimento de software.
 
+## Tecnologias
+[![My Skills](https://skillicons.dev/icons?i=html,css,c)](https://skillicons.dev)
 
 ## 📌 Objetivos
 
