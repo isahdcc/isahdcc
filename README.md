@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👩‍💻 Isabelli Heringer Dela Coleta
 
-<!--
-**isahdcc/isahdcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas – Biopark Educação 
+📍 Brasil, Paraná   
+💡 Apaixonada por tecnologia e em busca de aprendizado.
 
-Here are some ideas to get you started:
+## 📚 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Olá! Meu nome é Isabelli e estou iniciando minha jornada no mundo da tecnologia.  
+Atualmente curso o 1º período de Análise e Desenvolvimento de Sistemas e estou me dedicando a aprender as bases da programação, lógica computacional e desenvolvimento de software.
+
+
+## 📌 Objetivos
+
+- Evoluir meus conhecimentos em desenvolvimento web
+- Participar de projetos práticos e colaborativos  
+- Contribuir para a comunidade tech
+
+## 📫 Como me encontrar
+
+Em breve vou atualizar com minhas redes e portfólio! 😄  
+Enquanto isso, fique à vontade para acompanhar meus repositórios aqui no GitHub.
+
+---
+*“A jornada está só começando!”*
