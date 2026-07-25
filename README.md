@@ -8,17 +8,14 @@
 
 ## Sobre mim
 
-🎓 Graduanda em **Análise e Desenvolvimento de Sistemas**.
+Graduanda em **Análise e Desenvolvimento de Sistemas**.
 
-💼 Atualmente atuo como **Estagiária de Garantia da Qualidade**, contribuindo com atividades voltadas à melhoria de processos, organização de informações e suporte às demandas da área.
+Atualmente atuo como **Estagiária de Garantia da Qualidade**, contribuindo com atividades voltadas à melhoria de processos, organização de informações e suporte às demandas da área.
 
-🔬 Também sou **Bolsista de Iniciação Científica em Cibersegurança**, desenvolvendo pesquisas sobre **Análise e Gestão de Riscos em Segurança da Informação**, aprofundando meus conhecimentos em segurança digital e pesquisa científica.
+Também sou **Bolsista de Iniciação Científica em Cibersegurança**, desenvolvendo pesquisas sobre **Análise e Gestão de Riscos em Segurança da Informação**, aprofundando meus conhecimentos em segurança digital e pesquisa científica.
 
-🚀 Estou em constante evolução, aprimorando minhas habilidades em **Java**, **JavaScript** e **SQL**, com interesse em **Desenvolvimento Back-end**, **Cibersegurança** e **Engenharia de Software**.
+Estou em constante evolução, aprimorando minhas habilidades em **Java**, **JavaScript** e **SQL**, com interesse em **Desenvolvimento Back-end**, **Cibersegurança** e **Engenharia de Software**.
 
-🌱 Acredito que a tecnologia é capaz de transformar ideias em soluções que impactam positivamente pessoas e organizações.
-
----
 
 ## 🛠️ Tecnologias
 
