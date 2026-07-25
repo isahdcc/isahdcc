@@ -1,12 +1,12 @@
 <h2 align="center">Olá! Eu sou a Isabelli 👋</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=40&pause=1200&color=6C8EFF&center=true&vCenter=true&width=1000&lines=Building+tomorrow,+one+line+of+code+at+a+time.;Coding+the+future." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=40&pause=1200&color=6C8EFF&center=true&vCenter=true&width=1000&lines=Coding+the+future." alt="Typing SVG" />
 </p>
 
 ---
 
-## 👩🏻‍💻 Sobre mim
+## Sobre mim
 
 🎓 Graduanda em **Análise e Desenvolvimento de Sistemas**.
 
