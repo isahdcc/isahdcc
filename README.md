@@ -1,5 +1,7 @@
 <h2 align="left">Olá, Meu nome é Isabelli!</h2>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A416F7&width=435&lines=+Coding+the+future.)](https://git.io/typing-svg)
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
   <img width="12" />
