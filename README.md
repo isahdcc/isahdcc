@@ -1,6 +1,8 @@
 <h2 align="left">Olá, Meu nome é Isabelli!</h2>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A416F7&width=435&lines=+Coding+the+future.)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=40&pause=1200&color=6C8EFF&center=true&vCenter=true&width=1000&lines=Building+the+Future+Through+Technology;Cybersecurity+Research+Student;Quality+Assurance+Intern;Java+%7C+JavaScript+%7C+SQL;Always+Learning+Something+New" alt="Typing SVG" />
+</p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
