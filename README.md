@@ -16,7 +16,6 @@ Também sou **Bolsista de Iniciação Científica em Cibersegurança**, desenvol
 
 Estou em constante evolução, aprimorando minhas habilidades em **Java**, **JavaScript** e **SQL**, com interesse em **Desenvolvimento Back-end**, **Cibersegurança** e **Engenharia de Software**.
 
-
 ## 🛠️ Tecnologias
 
 <div align="left">
@@ -26,9 +25,15 @@ Estou em constante evolução, aprimorando minhas habilidades em **Java**, **Jav
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="c logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="docker logo" />
 </div>
 
 ---
@@ -39,11 +44,9 @@ Estou em constante evolução, aprimorando minhas habilidades em **Java**, **Jav
   <a href="https://instagram.com/isabelliheringer" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
-
   <a href="mailto:isabelliheringer@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
-
   <a href="https://linkedin.com/in/isabelliheringer" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
